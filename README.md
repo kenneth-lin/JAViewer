@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/kenneth-lin/JAViewer.svg?branch=master)](https://travis-ci.com/kenneth-lin/JAViewer)
+
 # JAViewer
 质感设计 更优雅的驾车体验
 ## 官方Telegram交流群
